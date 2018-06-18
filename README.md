@@ -1,2 +1,5 @@
 # VBA
-VBA projects related assessment, for instance
+VBA projects related to assessment, for instance.
+
+Assessment 1.0 is still partly in Finnish which may make
+it difficult to understand for those no knowing Finnish :)
